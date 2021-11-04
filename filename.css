@@ -1,0 +1,54 @@
+h1{
+font-family: cursive;
+font-size: 80px;
+color: #008080;
+text-align: center;
+background-color: black;
+font-size: italic;
+font-weight: 800;
+}
+
+h2 {
+  text-align: right;
+}
+
+h4{
+text-align: left;
+}
+
+h3 {
+  color: #000080;
+
+}
+
+body {
+  background-color: lightblue;
+}
+
+
+.menu, .footerbar {
+  background-color: #808080
+}
+.menu, .footerbar {
+  margin: 0;
+}
+
+.menu, .footerbar {
+  padding: 0px;
+}
+
+.menu, .footerbar {
+  overflow: hidden;
+}
+
+.menu a, .footerbar a{
+  display: inline-block;
+  padding: 30px 35px;
+  color: white;
+  text-decoration: none;
+  float: center;
+}
+
+.menu a:hover, .footerbar a:hover {
+  background-color: #008080;
+}

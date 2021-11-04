@@ -1,0 +1,68 @@
+.block{
+  display: square;
+  height: 20%
+}
+
+.block {
+  background-color: pink;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+
+
+
+
+h1 {
+  font-family: cursive;
+  font-size: 50px;
+  color: #008080;
+  text-align: center;
+  background-color: #40E0D0;
+  font-size: italic;
+  font-weight: 500;
+}
+
+
+h2 {
+  text-align: center;
+}
+
+body {
+  background-color: #a07ecc;
+}
+
+
+
+
+
+
+
+
+
+.menu, .footerbar {
+  background-color: #808080
+}
+.menu, .footerbar {
+  margin: 0;
+}
+
+.menu, .footerbar {
+  padding: 0px;
+}
+
+.menu, .footerbar {
+  overflow: hidden;
+}
+
+.menu a, .footerbar a{
+  display: inline-block;
+  padding: 30px 35px;
+  color: white;
+  text-decoration: none;
+  float: center;
+}
+
+.menu a:hover, .footerbar a:hover {
+  background-color: #008080;
+}
